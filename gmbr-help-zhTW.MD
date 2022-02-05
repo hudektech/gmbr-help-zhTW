@@ -53,7 +53,7 @@
 
 ### 第一步：輸入課程
 
-- 這件擴充功能是由課程組織的. 第一步驟是在「課程」標籤內輸入您的課程.
+- 這件擴充功能是由課程來組織的. 第一步驟是在「課程」標籤內輸入您的課程.
 
   ![輸入課程](./data/setup1.jpg)
 
@@ -249,7 +249,7 @@
 
 - Sometimes the "real estate" space on your screen is too small, so you can toggle the google meet toolbar to hide or unhide, freeing up space
 
-  ![hide](./data/util-hide.jpg)
+  ![hide](./data/hide.jpg)
 
 - Click once to hide it, click again to unhide. In this way you can toggle the hide / unhide.
 
@@ -257,7 +257,7 @@
 
 - This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
 
-  ![retile](./data/use1b.png)
+  ![retile](./data/retile.jpg)
 
 - This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
@@ -265,7 +265,7 @@
 
 - The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
 
-  ![retile](./data/use1c.jpg)
+  ![minmax](./data/minmax.jpg)
 
 - Once the rooms are all open then the teacher may minimize the control panel and just use the slider to move between rooms. Please note that ALL of the features of the full-size control panel are still available in the minimized state. All the teacher has to do is scroll down to see the rest of the functions, such as broadcast as one example.
 
@@ -273,7 +273,7 @@
 
 - Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
 
-  ![mute](./data/reports.jpg)
+  ![report](./data/reports.jpg)
 
 ### 導出入數據
 
