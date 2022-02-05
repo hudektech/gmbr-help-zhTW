@@ -1,3 +1,7 @@
+* {
+  font-family: "Noto Serif TC", serif;
+}
+
 .container {
   max-width: 800px;
   display: flex;
