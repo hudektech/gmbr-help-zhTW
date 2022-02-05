@@ -10,27 +10,27 @@
 
 - 第一步: [輸入課程](#第一步輸入課程)
 - 第二步: [創建分組](#第二步創建分組)
-- 第三步: [調整設計](#setup-3-customize-your-settings)
-- 第四步: [更改 Meet 佈局](#setup-4-change-google-meet-layout)
-- 第五步: [確認 Google 帳號](#setup-5-confirm-google-account)
+- 第三步: [調整設計](#第三步調整設計)
+- 第四步: [調整 Meet 佈局格式](#第四步調整Meet佈局格式)
+- 第五步: [確認 Google 帳號](#第五步確認Google帳號)
 
 ### 上課
 
-- Step 1: [Select course and number of rooms](#teach-class-1-select-course-and-number-of-rooms)
-- Step 2: [Start your class](#teach-class-2-start-your-class)
-- Step 3A: [Assign breakouts - Ad Hoc](#teach-class-3a-assign-breakouts---ad-hoc)
-- Step 3B: [Assign breakouts - Pre Assigned](#teach-class-3b-assign-breakouts---pre-assigned)
-- Step 4: [Navigate Rooms and Control Audio Visual](#teach-class-4-navigate-rooms-and-control-audio-visual)
-- Step 5: [Broadcast to all breakout rooms](#teach-class-5-broadcast-to-all-breakout-rooms)
-- Step 6: [Mute and remove students](#teach-class-6-mute-and-remove-students)
+- 第一步: [選課與指定個分組](#第一步選課與指定個分組)
+- 第二步: [開課](#第二步開課)
+- 步驟 3A: [分組學生-臨時](#步驟3A分組學生-臨時)
+- 步驟 3B: [分組學生-預先](#步驟3B分組學生-預先)
+- 第四步: [入出分組與操作視聽設備](#第四步入出分組與操作視聽設備)
+- 第五步: [廣播系統](#第五步廣播系統)
+- 第六步: [影音和移除學生](#第六步影音和移除學生)
 
 ### 工具
 
-- [Hide / Unhide Google Meet Toolbar](#toggle-hide-unhide-google-meet-toolbar)
-- [Re-tile](#re-tile)
-- [Minimize/Maximize control panel](#minimizemaximize-control-panel)
-- [Reports](#reports)
-- [Export / import](#exportimport)
+- [隱藏顯示 Meet 下面的面板](#隱藏顯示Meet下面的面板)
+- [重新視窗格式](#重新視窗格式)
+- [縮小放大控制板](#縮小放大控制板)
+- [簡報](#簡報)
+- [導出入數據](#導出入數據)
 
 ### 常問問題
 
@@ -104,7 +104,7 @@
 
   - _Resource Url_: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
 
-### Setup 3: Customize your Settings
+### 第三步 3: 步調整設計
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
 
@@ -123,7 +123,7 @@
 
 - There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
 
-### Setup 4: Change Google Meet Layout
+### 第四步: 調整 Meet 佈局格式
 
 - For the extension to work properly, you may need to change the setting on your google meet to Tiled Layout
 
@@ -135,7 +135,7 @@
 
   ![gm setting2](./data/setup4.2.jpg)
 
-### Setup 5: Confirm Google Account
+### 第五步: 確認 Google 帳號
 
 - Please make sure that your listed primary google account is the account that you use to create google meet links, otherwise your links will not work. You need to be the "owner" of the links in order to open them. The "owner" is the account that you used to create the accounts.
 
@@ -145,7 +145,7 @@
 
   ![account-2](./data/meet-account2.jpg)
 
-### Teach Class 1: Select course and number of rooms
+### 第一步：選課與指定個分組
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
@@ -157,7 +157,7 @@
 
   ![meet tab2](./data/use1a.png)
 
-### Teach Class 2: Start your class
+### 第二步：開課
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
@@ -178,7 +178,7 @@
 
   ![retile](./data/use1b.png)
 
-### Teach Class 3a: Assign Breakouts - Ad Hoc
+### 步驟 3A：分組學生-臨時
 
 > [Video Tutorial: Assign Ad Hoc](https://youtu.be/W_XZYIf0fFI?t=1016)
 
@@ -215,7 +215,7 @@
 
   ![ad hoc6](./data/adhoc6.jpg)
 
-### Teach Class 3b: Assign Breakouts - Pre Assigned
+### 步驟 3B： 分組學生-預先
 
 > [Video Tutorial: Assign Students using Pre Assigned Method](https://youtu.be/W_XZYIf0fFI?t=1413)
 
@@ -223,7 +223,7 @@
 
   ![3b](./data/use3b.jpg)
 
-### Teach Class 4: Navigate Rooms and Control Audio Visual
+### 第四步：入出分組與操作視聽設備
 
 > [Video Tutorial: Navigate Rooms and Control Visual](https://youtu.be/W_XZYIf0fFI?t=1650)
 
@@ -248,7 +248,7 @@
 
 - I typically move the slider by either clicking on the right and left arrows or by clicking on the slider "blank" spot which will make the slider immediately move to that spot. I have never experienced an out of sync problem using these two methods.
 
-### Teach Class 5: Broadcast to All Breakout Rooms
+### 第五步：廣播系統
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=BywcEyeyCs4)
 
@@ -258,7 +258,7 @@
 
 - Once you click on the slider either left or right, the broadcast will automatically be turned off and the normal mode of listening to the breakout room with muted teacher video and muted teacher microphone.
 
-### Teach Class 6: Mute and Remove Students
+### 第六步：影音和移除學生
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=z6SlEL8Mj_A)
 
@@ -268,7 +268,7 @@
 
   ![mute](./data/mute.jpg)
 
-### Toggle Hide Unhide Google Meet Toolbar
+### 隱藏顯示 Meet 下面的面板
 
 - Sometimes the "real estate" space on your screen is too small, so you can toggle the google meet toolbar to hide or unhide, freeing up space
 
@@ -276,7 +276,7 @@
 
 - Click once to hide it, click again to unhide. In this way you can toggle the hide / unhide.
 
-### Re-Tile
+### 重新視窗格式
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=tu59dut08hU)
 
@@ -286,7 +286,7 @@
 
 - This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
-### Minimize/Maximize Control Panel
+### 縮小放大控制板
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=0kG_qOnfj2E)
 
@@ -296,7 +296,7 @@
 
 - Once the rooms are all open then the teacher may minimize the control panel and just use the slider to move between rooms. Please note that ALL of the features of the full-size control panel are still available in the minimized state. All the teacher has to do is scroll down to see the rest of the functions, such as broadcast as one example.
 
-### Reports
+### 簡報
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=WaNBaIAkKUY)
 
@@ -304,7 +304,7 @@
 
   ![mute](./data/reports.jpg)
 
-### Export/Import
+### 導出入數據
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=GtCh2Mrx6Rk)
 
