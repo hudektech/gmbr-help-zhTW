@@ -178,7 +178,7 @@
 
   ![retile](./data/use1b.png)
 
-### 步驟 3A：分組學生-臨時
+### 步驟 3A： 分組學生-臨時
 
 > [Video Tutorial: Assign Ad Hoc](https://youtu.be/W_XZYIf0fFI?t=1016)
 
