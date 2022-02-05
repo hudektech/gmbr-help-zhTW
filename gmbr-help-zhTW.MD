@@ -51,7 +51,7 @@
 - [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
 - [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
-### 第一步輸入課程
+### 第一步：輸入課程
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
@@ -68,7 +68,7 @@
 - The red delete button deletes from the bottom up so if you want to delete a course then use drag and drop the move the course to the bottom of the list and then click on the red delete button
 - The export/import button which is the far right hand side black button. This will export all of your data from the extension to your pc download folder so that you can import it into a second computer. Or if you want a backup in case you need to uninstall the exension, you can first export the data to your pc so that you can import it after you re-install the extension.
 
-### 第二步創建分組
+### 第二步：創建分組
 
 > [Click here for video tutorial (short version)](https://www.youtube.com/watch?v=eyl8b4RWJMc)
 
