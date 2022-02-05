@@ -8,8 +8,8 @@
 
 ### 設計
 
-- 第一步: [輸入課程](#你好)
-- 第二步: [創建分組](#setup-2-create-breakout-rooms)
+- 第一步: [輸入課程](#"你好")
+- 第二步: [創建分組](#\嗨)
 - 第三步: [調整設計](#setup-3-customize-your-settings)
 - 第四步: [更改 Meet 佈局](#setup-4-change-google-meet-layout)
 - 第五步: [確認 Google 帳號](#setup-5-confirm-google-account)
