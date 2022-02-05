@@ -163,7 +163,7 @@
 - :warning: Please do not click on the checkbox "Low Memory Option" unless your computer has a very small amount of memory. If you check this box, then only one breakout room window will be displayed at a time. If you accidentally check this box, no worries. Just uncheck it and then choose your button option: Main, Breakouts, or Both
 - :star: To reorganize your tiled windows, after they are opened please click on the red Re-tile button on the top right hand side of the control panel
 
-  ![retile](./data/use1b.png)
+  ![retile](./data/retile.jpg)
 
 ### 步驟 3A： 分組學生-臨時
 
