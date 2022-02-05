@@ -4,7 +4,7 @@
 
 <!-- omit in toc -->
 
-## [一步一步的說明影片](https://youtu.be/W_XZYIf0fFI)
+## [詳細操作的說明影片](https://youtu.be/W_XZYIf0fFI)
 
 ### 設計
 
