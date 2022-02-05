@@ -104,7 +104,7 @@
 
   - _Resource Url_: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
 
-### 第三步: 調整設計
+### 第三步：調整設計
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
 
