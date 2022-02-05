@@ -1,6 +1,6 @@
 ## Google Meet 分組 by 胡浩洋
 
-## 線上說明書
+## 線上的說明書
 
 <!-- omit in toc -->
 
@@ -8,7 +8,7 @@
 
 ### 設計
 
-- 第一步: [輸入課程](#setup-1-enter-your-courses)
+- 第一步: [輸入課程](#第一步:輸入課程)
 - 第二步: [創建分組](#setup-2-create-breakout-rooms)
 - 第三步: [調整設計](#setup-3-customize-your-settings)
 - 第四步: [更改 Meet 佈局](#setup-4-change-google-meet-layout)
@@ -51,7 +51,7 @@
 - [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
 - [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
-### Setup 1: Enter your courses
+### 第一步:輸入課程
 
 > [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
 
