@@ -11,18 +11,18 @@
 - 第一步: [輸入課程](#第一步輸入課程)
 - 第二步: [創建討論室](#第二步創建討論室)
 - 第三步: [調整設計](#第三步調整設計)
-- 第四步: [調整 Meet 佈局格式](#第四步-調整-meet-佈局格式)
+- 第四步: [調整 Meet 變更版面配置](#第四步-調整-meet-變更版面配置)
 - 第五步: [確認 Google 帳號](#第五步-確認-google-帳號)
 
 ### 上課
 
-- 第一步: [選課與指定個分組](#第一步選課與指定個分組)
+- 第一步: [選課與指定幾個分組](#第一步選課與指定個分組)
 - 第二步: [開課](#第二步開課)
 - 步驟 3A: [分組學生-臨時](#步驟-3a-分組學生-臨時)
 - 步驟 3B: [分組學生-預先](#步驟-3b-分組學生-預先)
 - 第四步: [入出分組與操作視聽設備](#第四步入出分組與操作視聽設備)
 - 第五步: [廣播系統](#第五步廣播系統)
-- 第六步: [影音和移除學生](#第六步影音和移除學生)
+- 第六步: [靜音和移除學生](#第六步靜音和移除學生)
 
 ### 工具
 
@@ -71,13 +71,13 @@
 
 - 在討論時標籤內能創建討論室
 
-  ![Enter rooms](./data/setup2.0.png)
+  ![Enter rooms](./data/setup2.0.jpg)
 
 - :smile: **最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存.** 這樣擴充功能會自動給你連結，這麼簡單.
 
-  ![create rooms](data/setup2.1.png)
+  ![create rooms](data/setup2.1.jpg)
 
-- **Google Classroom 老師**: 如果你是 google class room 老師，你的擴充功能「Main」討論室是你的 google classroom “Meet Link".
+- **Google Classroom 老師**: 如果你是 google class room 老師，你的擴充功能「大教室」討論室是你的 google classroom “Meet Link".
 
   **只有 google classroom 老師需要做這個:** 請從你的 google classroom 主頁複製 meet link， 然後在擴充功能的 Main room 貼上。
 
@@ -99,32 +99,30 @@
 
 ### 第三步：調整設計
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=BfOXuxOH_Zo)
-
 - Tabs/Tiles: This controls whether the breakout rooms each have their own window (tiles) or if they are separate tabs in a window (tabs). The tabs option can control the number of tabs within a window
-  ![create rooms](data/setup3.png)
+  ![create rooms](data/setup3.jpg)
 
 - Colors: Customize the bottom border of your Google Meet
 
 - Automatically Allow Outside Participants to enter: This allows participants from outside your organization to automatically enter your room without your approval. If you check this box then if the participant has the link then they can automatically enter the room. This is the equivalent of allowing yourself to be zoom bombed. It is a huge convenience to allow outside participants to enter breakout rooms if they have the link but there is the possibility that an unrecognized person who has this link may enter. The default is Off (not checked). Recommendation is to leave it off to prevent outsiders from entering without your approval.
 
-- Slider and Broadcast Background Images: [Video tutorial]() Choose an URL for an image or leave it blank and just choose a background color ("Back Color"). Font colors can be changed for light and dark background, as well as the position and size of the images
+- Slider and Broadcast Background Images: Choose an URL for an image or leave it blank and just choose a background color ("Back Color"). Font colors can be changed for light and dark background, as well as the position and size of the images
 
-- Automatically Join Meet: [Video tutorial](https://www.youtube.com/watch?v=-AHaEjdP5vg) Only meets whose URL is listed in the rooms tab may be eligible for an automatic join. For "eligible" meets, this automatic join function can be turned on or off by clicking or leaving the checkbox for the Main room and Breakout rooms. All meets with URLs that are not listed in the Rooms tab will not be automatically joined.
+- Automatically Join Meet: Only meets whose URL is listed in the rooms tab may be eligible for an automatic join. For "eligible" meets, this automatic join function can be turned on or off by clicking or leaving the checkbox for the Main room and Breakout rooms. All meets with URLs that are not listed in the Rooms tab will not be automatically joined.
 
-- Automatically refresh room links when opened: [Video tutorial](https://www.youtube.com/watch?v=YU7cMYNKrww) If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
+- Automatically refresh room links when opened: If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
 
 - There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
 
-### 第四步: 調整 Meet 佈局格式
+### 第四步: 調整 Meet 變更版面配置
 
-- For the extension to work properly, you may need to change the setting on your google meet to Tiled Layout
+- For the extension to work properly, you may need to change the setting on your google meet to 圖塊
 
 - Click on the 3 dots button at the bottom on the google meet screen and choose "Change Layout"
 
   ![gm setting1](./data/setup4.1.jpg)
 
-- Click on the radio button for "Tiled" and move the slider all the way to the right to 49.
+- Click on the radio button for "Tiled" and 「並排顯示」move the slider all the way to the right to 49.
 
   ![gm setting2](./data/setup4.2.jpg)
 
@@ -138,9 +136,7 @@
 
   ![account-2](./data/meet-account2.jpg)
 
-### 第一步：選課與指定個分組
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
+### 第一步：選課與指定幾個分組
 
 - On the Meet tab, click on the section "Start Class"
 
@@ -148,11 +144,9 @@
 
 - Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
 
-  ![meet tab2](./data/use1a.png)
+  ![meet tab2](./data/use1a.jpg)
 
 ### 第二步：開課
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=qqmS62uhUts)
 
 - In the Start Class section you will see three buttons
 
@@ -172,8 +166,6 @@
   ![retile](./data/use1b.png)
 
 ### 步驟 3A： 分組學生-臨時
-
-> [Video Tutorial: Assign Ad Hoc](https://youtu.be/W_XZYIf0fFI?t=1016)
 
 - To assign students on an Ad Hoc basis please click on the button below:
 
@@ -210,15 +202,11 @@
 
 ### 步驟 3B： 分組學生-預先
 
-> [Video Tutorial: Assign Students using Pre Assigned Method](https://youtu.be/W_XZYIf0fFI?t=1413)
-
 - The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
 
   ![3b](./data/use3b.jpg)
 
 ### 第四步：入出分組與操作視聽設備
-
-> [Video Tutorial: Navigate Rooms and Control Visual](https://youtu.be/W_XZYIf0fFI?t=1650)
 
 - To move between rooms, please either click on the right or left arrows next to the slider or click on the blank space in the slider bar (the black portion). If you click on a blank space in the slider bar, the yellow dot will immediately move to that position.
 
@@ -243,17 +231,13 @@
 
 ### 第五步：廣播系統
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=BywcEyeyCs4)
-
 - Click on the broadcast speaker/microphone/video controls to broadcast into all of the breakout rooms.
 
   ![broadcast](./data/broadcast.jpg)
 
 - Once you click on the slider either left or right, the broadcast will automatically be turned off and the normal mode of listening to the breakout room with muted teacher video and muted teacher microphone.
 
-### 第六步：影音和移除學生
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=z6SlEL8Mj_A)
+### 第六步：靜音和移除學生
 
 - To mute the participants in a selected room, click on the mute button for the corresponding selection.
 - To remove participants from a room, click on remove button for the corresponding selection.
@@ -271,8 +255,6 @@
 
 ### 重新視窗格式
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=tu59dut08hU)
-
 - This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
 
   ![retile](./data/use1b.png)
@@ -280,8 +262,6 @@
 - This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
 ### 縮小放大控制板
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=0kG_qOnfj2E)
 
 - The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
 
@@ -291,15 +271,11 @@
 
 ### 簡報
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=WaNBaIAkKUY)
-
 - Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
 
   ![mute](./data/reports.jpg)
 
 ### 導出入數據
-
-> [Click here for video tutorial](https://www.youtube.com/watch?v=GtCh2Mrx6Rk)
 
 - There are export/import of breakout room within the "Rooms" tab.
 
