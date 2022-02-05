@@ -138,23 +138,22 @@
 
 ### 第一步：選課與指定幾個分組
 
-- On the Meet tab, click on the section "Start Class"
+- 在「快樂上課」標籤，按「開始上課」就會出現：
 
   ![meet tab1](./data/use1.jpg)
 
-- Use the dropdowns for Course and Breakouts to choose your course and desired number of breakout rooms.
+- 在「課程」按鈕選你的課程，在幾個分組選你想要多少討論室。如果妳打開討論室後，決定要躲開討論室沒關係，就可以躲開，然後請按[重新視窗格式](#重新視窗格式) 整理好在螢幕上的試穿。
 
   ![meet tab2](./data/use1a.jpg)
 
 ### 第二步：開課
 
-- In the Start Class section you will see three buttons
+- 在「開始上課」區域有三個按鈕
 
   ![start class](./data/use2.jpg)
 
-- You may either click on "Main room" button and just open the main room, or click on "Both" to open the main room plus all of the breakout rooms.
-- If you first decided to only open the main room, you can always change you mind and open the breakouts later, by clicking on the "Breakouts" button.
-- If you click on "Both" while the main room is already open, or while some breakouts are already open, no worries. These rooms will not be opened twice.
+- 你可以按「大教室」打開只有大教室，或按「兩個都有」打開大教室與討論室都有。
+- 如果先按「大教室」單打開大教室，你能後來按「討論室」打開討論室。如果大教室已經開了，你按了「兩個都」按鈕請放心，大教室不會被打開了第二次。
 - Google Classroom Teachers:
   - If you FIRST open the main room in the extension THEN open the google classroom meet link in your google classroom page, the main room is automatically linked.
   - However, most Google Classroom Teachers first open their google classroom link from their google classroom page by clicking on the "meet link" in the Stream or the icon in their Classwork. That's fine no worries. In this case, when you want to use the breakout extension, please click on the "Main Room" button in this extension to sync the extension with your google classorom page. When you click on the "Main Room" button you should see the tab for the main room to display "Main Room" which indicates everything is synced up correctly.
