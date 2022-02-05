@@ -1,4 +1,4 @@
-## Google Meet 分組 by 胡浩洋
+## Google Meet 分組擴充功能 by 胡浩洋
 
 ## 線上的說明書
 
