@@ -9,7 +9,7 @@
 ### 設計
 
 - 第一步: [輸入課程](#第一步輸入課程)
-- 第二步: [創建分組](#第二步創建分組)
+- 第二步: [創建討論室](#第二步創建討論室)
 - 第三步: [調整設計](#第三步調整設計)
 - 第四步: [調整 Meet 佈局格式](#第四步-調整-meet-佈局格式)
 - 第五步: [確認 Google 帳號](#第五步-確認-google-帳號)
@@ -53,56 +53,49 @@
 
 ### 第一步：輸入課程
 
-> [Click here for video tutorial](https://www.youtube.com/watch?v=1ChAsJfnjgE)
+- 這件擴充功能是由課程組織的. 第一步驟是在「課程」標籤內輸入您的課程.
 
-- Breakout Rooms Extension is organized by courses. The first step is to enter your courses in the "Courses" tab.
+  ![輸入課程](./data/setup1.jpg)
 
-  ![Enter Course](./data/setup1.jpg)
+- 請注意：沒有必要在這裡輸入你所有的課程，有些老師只用幾個普通名字的像「課程 1，課程 2，課程 3」那樣，然後再用幾次這些課程。比方說，如果您的課程的前後時間不是很密集（不用擔心兩堂課之間的學生會有衝突），理論上可以輸入一個課程而已，然後一直再用這個課程。看你的方便來決定輸入幾個課程。
 
-- It is possible to use this extension with just ONE course. You do not need to add multiple courses if you do not want to. If you want to run all your classes through one set of google links which are organized by that one course, you certainly can.
-- Multiple courses option is so that teachers may assign certain links to different classes, perhaps on a more permanent basis. Separating them into different courses may make it easier to manage, but it is not a requirement. You can just use ONE course if you want to.
-- To highlight the entire contents of an input box, please triple click. This will highlight everything so you can copy/paste or delete.
-- To add a row, please click on the green + button
-- To save, click on the blue save button
-- Please note that all courses must have a unique name
-- The red delete button deletes from the bottom up so if you want to delete a course then use drag and drop the move the course to the bottom of the list and then click on the red delete button
-- The export/import button which is the far right hand side black button. This will export all of your data from the extension to your pc download folder so that you can import it into a second computer. Or if you want a backup in case you need to uninstall the exension, you can first export the data to your pc so that you can import it after you re-install the extension.
+- 把一行網上下，請長按一行，然後整個行能往上下
+- 如果想改一行內資料的全部，請按三次（click 3 times)，然後能刪掉的全部
+- 新增一行，請按綠色的「+」按鈕
+- 儲存資料，請按藍色的按鈕。
+- 請注意：每一間討論室必要獨特的名稱，不能重覆
+- 刪除一行是從行列的最後面開始，若想把中間的行給刪掉，請拉下最下面然後按紅色的按鈕給它刪掉
+- 移入數據的按鈕是在最右邊黑色的按鈕。資料移除是為了個自己一個 backup，或許如果你有兩台電腦，能從第一胎電腦下載然後裝上去第二胎。
 
-### 第二步：創建分組
+### 第二步：創建討論室
 
-> [Click here for video tutorial (short version)](https://www.youtube.com/watch?v=eyl8b4RWJMc)
+- 在討論時標籤內能創建討論室
 
-> [Click here for video tutorial (long version)](https://www.youtube.com/watch?v=qEj7vM50uBQ)
+  ![Enter rooms](./data/setup2.0.png)
 
-- The breakout rooms are created in the Rooms tab
-
-  ![Enter Course](./data/setup2.0.png)
-
-- :smile: **By far the simplest way to use this extension is to leave the "Nickname, Code, URL" link field blank.** Create on the green + button to create your rows of rooms, give each room a unique name and then click on the blue save button. The extension will create the links for you. Most teachers do not use nicknames, codes, or resource URLs. If you want a quickstart and get up and running then just do this: create rows of rooms with unique name, leave the link field blank, and then click on the save button. You're done! Now you have all the rooms you need and can move on to the next step.
+- :smile: **最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存.** 這樣擴充功能會自動給你連結，這麼簡單.
 
   ![create rooms](data/setup2.1.png)
 
-- **Google Classroom Teachers**: If you are a Google Classroom teacher your Main room link is the same link as the link for your Google Classroom meet.
+- **Google Classroom 老師**: 如果你是 google class room 老師，你的擴充功能「Main」討論室是你的 google classroom “Meet Link".
 
-  **For Google Class teachers only:** Please copy and paste your "Meet link" from your google classroom page as your Main room link in the Rooms tab.
+  **只有 google classroom 老師需要做這個:** 請從你的 google classroom 主頁複製 meet link， 然後在擴充功能的 Main room 貼上。
 
   ![gc copy1](./data/GC-1.jpg)
 
-  **For Google Class teachers only:** Then go to the Rooms tab of the extension, and copy from your clipboard the meet into the Main room
-
   ![gc copy2](./data/GC-2.jpg)
 
-- Types of links:
+- 連結的種類:
 
-  - _Nickname_: Nicknames are dynamic because their meet urls change for each session. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefix such as g.co/meet/ or meet.google.com/lookup/. Nicknames are color coded light green. Nicknames have the advantage that they expire soon after the session concludes with all participants and the teacher exiting the room. In addition, for new sessions the nickname creates new links.
+  - _暱稱（Nickname）_: 暱稱是動態的，因為每次使用 url 會製造新的連結。 暱稱是給付費 google 會員使用的，所以免費的使用者應該不會有這個功能。請注意暱稱需要獨特的名稱，免得兩位老師好一起用相同名字發生遇到同樣的 meet 連結裡面。
 
-  - _Code_: Codes are static because they always call up the same meet url. A code is a total of 12 characters which consists of the 10 character meet code plus the 2 dashes, in a 3-4-3 format. A code is the 12 characters after the https://meet.google.com/ in the meet url. Static meet urls may be desireable if you want to keep the same link for your sessions
+  - _代碼（Code）_: 代碼是連結的未 12 字，比方說 https://meet.google.com/abc-defg-hij 的連結， 代碼是 abc-defg-hij. 這個方法是不常用的。
 
-  - _Meet Url_: Meet Urls are static because they always call up the same meet url, however, there is a checkbox setting which can make these dynamic by creating new meet urls "on the fly" each time the room is opened. The meet url is the full https://meet.google.com/abc-defg-hij formatted address. You may leave the field blank if you want the extension to automatically create one for you. There is no need to go to the Calendar
+  - _Meet 連結（Meet Url）_: 這是最常用的方法，簡單的留著空白儲存，擴充功能就會給妳新的連結。不喜歡現在的連結？很賤的，就刪除留著空白儲存，給妳新的連結。
 
-    To make meet urls dynamic you may click the "Automatically create links each time the room is opened" checkbox in the Settings. This checkbox is only relevant for meet urls. The checkbox is ignored for all other categories such as nicknames, codes, and resource urls.
+    不常用的方法：如果每次開課有新的連結，就能給下面的選項打勾。可以分別把新的連結給大教室或討論室。請記得如果選大教室的話又一點麻煩因為要先開大教室才知道新的連結是什麼告訴學生進入。除非你真的需要這個功能，建議不打勾。討論室給打勾的話比較沒有麻煩因為通常不是上課前告訴學生討論室的連結，而是臨時開討論室的給學生連結。
 
-  - _Resource Url_: This may be any web page that the teacher wants to use as a teaching resource, such as a science page, nature website, or a youtube to name a few examples.
+  - _普通連結（Resource Url）_: 任何的連結，比方說 youtube, 網站，等等.
 
 ### 第三步：調整設計
 
