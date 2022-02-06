@@ -38,18 +38,13 @@
 
 - [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
-- [What is a nickname, code, or URL?](#what-is-a-nickname-code-or-url)
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
 - [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
-- [How can I close the breakouts?](#how-can-i-close-the-breakouts)
-- [How can I simulate students to practice using the extension?](#how-can-i-simulate-students-to-practice-using-the-extension)
 - [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
 - [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
-- [Does this work with Google Classroom?](#does-this-work-with-google-classroom)
-- [Will my extension data be overwritten with a new updated version?](#will-my-extension-data-be-overwritten-with-a-new-updated-version)
 
 ### 第一步：輸入課程
 
@@ -57,14 +52,13 @@
 
   ![輸入課程](./data/setup1.jpg)
 
-- 請注意：沒有必要在這裡輸入你所有的課程，有些老師只用幾個普通名字的像「課程 1，課程 2，課程 3」那樣，然後再用幾次這些課程。比方說，如果您的課程的前後時間不是很密集（不用擔心兩堂課之間的學生會有衝突），理論上可以輸入一個課程而已，然後一直再用這個課程。看你的方便來決定輸入幾個課程。
-
-- 把一行網上下，請長按一行，然後整個行能往上下
-- 如果想改一行內資料的全部，請按三次（click 3 times)，然後能刪掉的全部
-- 新增一行，請按綠色的「+」按鈕
-- 儲存資料，請按藍色的按鈕。
-- 請注意：每一間討論室必要獨特的名稱，不能重覆
-- 刪除一行是從行列的最後面開始，若想把中間的行給刪掉，請拉下最下面然後按紅色的按鈕給它刪掉
+- 要輸入幾個課程？ 事實上，只需要輸入一個課程就可以，然後每門課再用這一個課程。不過因為有些課之間很密集，所以建議多輸入課程，免得兩堂課之間的學生有衝突。如果你認為比較整齊是給每一門課自己的擴充功能課程名稱，就可以。看你的方便。
+- 調整列表行的順序：拉一行往上下，請長按一行，然後給那行拉往上下
+- 改一行文字的全部，請按三次（click 3 times)，然後這行文字全部會突出顯示。
+- 新增一行：請按綠色的「+」按鈕
+- 儲存資料：請按藍色的按鈕。
+- 獨特名稱：每一間討論室必要獨特的名稱，不能重覆
+- 刪掉：刪除一行是從行列的從最後面開始，若想把中間的行給刪掉，請拉下到最下面然後按紅色的按鈕就給最下面行刪掉
 - 移入數據的按鈕是在最右邊黑色的按鈕。資料移除是為了個自己一個 backup，或許如果你有兩台電腦，能從第一胎電腦下載然後裝上去第二胎。
 
 ### 第二步：創建討論室
@@ -87,52 +81,53 @@
 
 - 連結的種類:
 
-  - _暱稱（Nickname）_: 暱稱是動態的，因為每次使用 url 會製造新的連結。 暱稱是給付費 google 會員使用的，所以免費的使用者應該不會有這個功能。請注意暱稱需要獨特的名稱，免得兩位老師好一起用相同名字發生遇到同樣的 meet 連結裡面。
+  - _暱稱（Nickname）_: 暱稱是動態的，因為每次使用 url 會創建新的連結。 暱稱是給付費 google 會員使用的，所以免費的使用者應該不會有這個功能。請注意暱稱需要獨特的名稱，免得兩位老師好一起用相同名字發生遇到同樣的 meet 連結裡面。
 
-  - _代碼（Code）_: 代碼是連結的未 12 字，比方說 https://meet.google.com/abc-defg-hij 的連結， 代碼是 abc-defg-hij. 這個方法是不常用的。
+  - _代碼（Code）_: 代碼是連結的尾 12 字，比方說 https://meet.google.com/abc-defg-hij 的連結， 代碼是 abc-defg-hij. 這樣能輸入「abc-defg-hij」就可以。這個方法是不常用的。
 
-  - _Meet 連結（Meet Url）_: 這是最常用的方法，簡單的留著空白儲存，擴充功能就會給妳新的連結。不喜歡現在的連結？很賤的，就刪除留著空白儲存，給妳新的連結。
-
-    不常用的方法：如果每次開課有新的連結，就能給下面的選項打勾。可以分別把新的連結給大教室或討論室。請記得如果選大教室的話又一點麻煩因為要先開大教室才知道新的連結是什麼告訴學生進入。除非你真的需要這個功能，建議不打勾。討論室給打勾的話比較沒有麻煩因為通常不是上課前告訴學生討論室的連結，而是臨時開討論室的給學生連結。
+  - _Meet 連結（Meet Url）_: 這是最常用的方法，留著空白就儲存，擴充功能會給你新的連結。如果你想全新的連結，就刪除留著空白儲存，擴充功能會給你新鮮的連結。
 
   - _普通連結（Resource Url）_: 任何的連結，比方說 youtube, 網站，等等.
 
 ### 第三步：調整設計
 
-- Tabs/Tiles: This controls whether the breakout rooms each have their own window (tiles) or if they are separate tabs in a window (tabs). The tabs option can control the number of tabs within a window
+- 獨立視窗 / 視窗內的標籤: 挑選你想要的格式，獨立視窗或視窗的標籤。若選標籤的話，能制定在視窗頂多的標籤
+
   ![create rooms](data/setup3.jpg)
 
-- Colors: Customize the bottom border of your Google Meet
+- 顏色: 挑選 meet 的下面工具欄有什麼顏色
 
-- Automatically Allow Outside Participants to enter: This allows participants from outside your organization to automatically enter your room without your approval. If you check this box then if the participant has the link then they can automatically enter the room. This is the equivalent of allowing yourself to be zoom bombed. It is a huge convenience to allow outside participants to enter breakout rooms if they have the link but there is the possibility that an unrecognized person who has this link may enter. The default is Off (not checked). Recommendation is to leave it off to prevent outsiders from entering without your approval.
+- 讓外人自動進入：建議不要勾選，不然持著你教書連結的外人能夠自動闖入。不過如果你不擔心這個情況，就可以勾選。由你來決定，基本上建議不優勾選。
 
-- Slider and Broadcast Background Images: Choose an URL for an image or leave it blank and just choose a background color ("Back Color"). Font colors can be changed for light and dark background, as well as the position and size of the images
+- 美好控制板的環境：在滑桿控制背景畫面與廣播背景畫面，可以選網路上的照片，換顏色，等等。
 
-- Automatically Join Meet: Only meets whose URL is listed in the rooms tab may be eligible for an automatic join. For "eligible" meets, this automatic join function can be turned on or off by clicking or leaving the checkbox for the Main room and Breakout rooms. All meets with URLs that are not listed in the Rooms tab will not be automatically joined.
+- 自動加入 meet. 首先，擴充功能只管理自己在「教室設定」標籤內輸入的連結，擴充功能不管「教室設定」外的 meet 連結。如果擴充功能看到在電腦有一個它要管理的連結，擴充功能會幫你按「立即加入」按鈕。如果你不想要自動加入，就可以把勾選給空白，不打勾。
 
-- Automatically refresh room links when opened: If the checkbox is selected then new room links will be created on-demand, whenever the Open button is clicked. This saves the teacher the steps of going to the Rooms tab, blanking out the rooms' links, and clicking save in order to get a fresh set of room links. Now the teacher can choose to have the rooms automatically generate brand new links when the Open room button is clicked.
-
-- There is a checkbox for the Main room and the Breakout rooms, so each category is separately configureable. For example, if the teacher wants to keep the Main room link static but have the Breakout rooms links dynamically refreshed each time, then the teacher can deselect (not check) the Main room checkbox but check the Breakout rooms checkbox.
+- 不常用的方法，建議不要勾選：如果每次上課需要新的連結，就勾選大教室或討論室。在「快樂上課」標籤，「開始上課」區域內，按開啟大教室或討論室的按鈕時，擴充功能會自動給你新增的連結，並在「教室設定」標籤內輸入創新的連結。如果勾選「討論室」比較沒問題因為開課前沒有必要通知學生討論室的連結，但勾選「大教室」比較麻煩因為要開課前需要通知學生大教室的連結，不過若勾選「大教室」要先開啟大教室才知道這個大教室的連結是什麼。建議：如果不需要這個功能，請兩個都不給勾選，留著空白。
 
 ### 第四步: 調整 Meet 變更版面配置
 
-- For the extension to work properly, you may need to change the setting on your google meet to 圖塊
+-為了讓擴充功能看到你大教室所有學生，有一個 meet 設定，設定一次就可以，不用再管理它。
 
-- Click on the 3 dots button at the bottom on the google meet screen and choose "Change Layout"
+- 在截圖看到三個點按鈕，按一下，會有彈簧菜單出現，按「變更版面配置」。
 
   ![gm setting1](./data/setup4.1.jpg)
 
-- Click on the radio button for "Tiled" and 「並排顯示」move the slider all the way to the right to 49.
+- 按「圖塊」，然後把「排顯示」的滑桿拉到最右邊的 49。
 
   ![gm setting2](./data/setup4.2.jpg)
 
 ### 第五步: 確認 Google 帳號
 
-- Please make sure that your listed primary google account is the account that you use to create google meet links, otherwise your links will not work. You need to be the "owner" of the links in order to open them. The "owner" is the account that you used to create the accounts.
+- 確認一下，顯示的帳號是你教書的 google 帳號，如果不是，請給它按一下。
 
   ![account-1](./data/meet-account1.jpg)
 
-- Your primary account is the FIRST account that you used to log in to on your personal computer. If this is not the correct account then please click on the button to reveal the section, then click on the blue button, log out of all your accounts, then log in using your primary google account as the FIRST account you log in, followed by any personal google accounts that you may want to use on this computer.
+- Google meet 注意創新連結是從什麼帳號來的做，這樣 Google 認為該帳號是連結的主人。 如果你用了一個帳號創新連結，但換了帳號使用開啟的，Google 可能拒絕因為 Google 認為你並不是該連結的主人。
+
+- 什麼是「主人」的帳號？ 是在你的電腦，**第一** 登入的 google 帳號。之後你能登入無限的帳號沒關係，主人的帳號還是你第一登入的 google 帳號。
+
+- 如果發現「主人」帳號是錯，很簡單。按下面的藍色按鈕，全部登出，重新登入，注意第一個登入是你想要的主人帳號。
 
   ![account-2](./data/meet-account2.jpg)
 
@@ -152,8 +147,8 @@
 
   ![start class](./data/use2.jpg)
 
-- 你可以按「大教室」打開只有大教室，或按「兩個都有」打開大教室與討論室都有。
-- 如果先按「大教室」單打開大教室，你能後來按「討論室」打開討論室。如果大教室已經開了，你按了「兩個都」按鈕請放心，大教室不會被打開了第二次。
+- 你可以按「大教室」打開只有大教室，或按「全部」打開大教室與討論室都有。
+- 如果先按「大教室」單打開大教室，你能後來按「討論室」打開討論室。如果大教室已經開了，你按了「全部」按鈕請放心，大教室不會被打開了第二次。
 - Google Classroom Teachers:
   - If you FIRST open the main room in the extension THEN open the google classroom meet link in your google classroom page, the main room is automatically linked.
   - However, most Google Classroom Teachers first open their google classroom link from their google classroom page by clicking on the "meet link" in the Stream or the icon in their Classwork. That's fine no worries. In this case, when you want to use the breakout extension, please click on the "Main Room" button in this extension to sync the extension with your google classorom page. When you click on the "Main Room" button you should see the tab for the main room to display "Main Room" which indicates everything is synced up correctly.
@@ -299,18 +294,6 @@
 
 - Low Memory (RAM) Mode: Video Demo In the "low memory mode" mode even a tiny computer such as a chromebook should be able to run and manage a very large number of breakouts, such as 50. Theoretically it is unlimited because only one breakout room is displayed on your computer at a time. Even though all the rooms are "open", your computer will display them one by one using the slider control For additional help on this option please click on the red Help in the checkbox text.
 
-### What is a nickname, code, or URL?
-
-- _Nickname_: A nickname is a user defined shortcut to call up a meet. Nicknames are specific to an organization. An example of a nickname is the teacher's name followed by the class, such as rhudek_webmagic1. You may enter any value in the link field as your nickname, but please enter the nickname itself and do not include any prefixsuch as g.co/meet/ or meet.google.com/lookup/
-
-- _Google Classroom users_:You may enter the lookup link here in the rooms tab and the extension will strip out the nickname for you. The "Meet link" on your Google Classroom page has a link of the format https://meet.google.com/lookup/abcdefghij where the 10 characters after the lookup are your classroom's nickname. That nickname is a random set of characters and has no meaning, but technically it is a "nickname". As a convenience, you may enter that full "Meet link" and the extension will strip out the nickname, or you can alternatively enter the 10 characters after the lookup.
-
-  As an example, my Google Classroom meet link is https://meet.google.com/lookup/g45j4fubqb. So for this Google Classroom my nickname is g45j4fubqb. The nomenclature is very confusing here which is unfortunate. Google Classroom says "Meet link" but this is actually a lookup for the meet since the meet url changes often. And the 10 characters after the lookup is your Google Classroom nickname even though that nickname has no semantic meaning. If you remember that the 10 characters after the lookup is your GC nickname then you will be able to keep things straight
-
-- _Code_: A code is the 10 character meet code, separated by two -, which makes it a total of 12 characters. An example is abc-defg-hij. Please remember, the extension requires the code to include the two - separators in order to differentiate it from a nickname.
-
-- _Url_: A url can be the full meet url, such as https://meet.google.com/abc-defg-hij. Another example of a url is a teaching resource such as a wikipedia page, https://en.wikipedia.org/wiki/Astronomy, or a free coding bootcamp page such as https://www.freecodecamp.org/
-
 ### Why is the extension not working properly?
 
 - This may happen for a number of reasons. One reason is that a new version of my extension was not updated completely on your system. One way to force a restart of your extension is to go to your chrome browser, window menu, select extensions. Find this extension and then turn the slider off, wait 3 seconds, then turn the slider back on again. This does not delete your data. It is similar to restarting your computer but for your extension
@@ -357,26 +340,6 @@
 
 - If you have a Google suite account then you can create simulated students by using Chrome incognito and enter any name you choose. If you do not have a Google suite account then you will need to use (extra) Google accounts to simulate students
 
-### Do all the rooms have to be Meets?
-
-- Yes, you can! As of version 15.9 and above, "rooms" may include non-Meet links such as any resource you may want to use for teaching materials during class. Examples are a youtube video, an online news article, or a science web page which you want to cover during class. Just create a "room" for those resources, give the resource a name such as "Astronomy", and enter the appropriate url link value such as https://solarsystem.nasa.gov/asteroids-comets-and-meteors/overview/. Please remember that your link must start with either https:// or http:// otherwise it will be considered invalid and a new google meet link will be created and stored in it's place.
-
-- Resource "rooms" can be a useful way of staging your resources that you want to cover during class. You can then open them as needed by increasing the number of breakout "rooms" and then click open. The resource rooms can be retiled the same as a Meet breakout room, but they are not available on the slider because there the slider is meant for entering a meet room which audio/visual controls.
-
-- Even if a teacher does not want to use breakout rooms for a teaching session, the teacher can still use this feature to stage resources and call them up as needed. In this case, let's say the teacher is only going to open the Main room, but the teacher may stage all the rest of the rooms as resources that will be discussed during class. So in this way the "Breakout Rooms" extension can be useful for teachers who actually never use breakout rooms. The breakout rooms for these teachers is really a staging, opening, and retiling of resources that will be taught in class
-
-- The rooms can be moved up and down in the Rooms tab by dragging and dropping. The resources are opened by the number of breakout rooms selected on the Meet tab. So if a teacher wants a split screen with the main room on one side and the resource on the other, the teacher can do that by selecting "1" as the number of breakouts and then open all rooms (just one in this case, the resource). After the resource is covered, the teacher can go back to the Rooms tab, drag and drop the next resource and open all, then retile. The new resource will open and snap into place on the right hand side. Teachers can progress through the list of their in this manner.
-
-- Another option for grouping your resources is to create a "course" to hold your resources. This way if you are teaching in the main room only (no breakouts), you can switch the course on the Meet tab to the resource "course" and open it's breakouts. You can then present your screen or these tabs in your main room. Actually, the possibilities are almost endless. Explore and try out this new feature to see what works best for you. I think you may find it quite useful to organize and present your additional online teaching materials
-
 ### How can I use this extension on multiple computers?
 
 - Use the export/import option in the "Courses" tab to download your data from your first computer. Go to your second computer and import this file. Now the two computers are in sync
-
-### Does this work with Google Classroom?
-
-- Yes, and there is a special workflow for integrating with Google Classroom which is described step by step in the Start Class with Google Classroom section on the meet tab of this extension
-
-### Will my extension data be overwritten with a new updated version?
-
-- It shouldn't be be overwritten and I try my best to avoid those situations. To protect yourself I advise everyone to download their data periodically using the Export function in the Course tab which will download all the relevant data from the extension to your computer download folder. If something goes wrong the new version and you need to re-install the extension, you can import the data using the Import function and that should re-install your previous data.
