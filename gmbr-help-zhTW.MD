@@ -42,7 +42,7 @@
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
-- [學生需要離開大教室?](#學生需要離開大教室)
+- [學生需要退出大教室?](#學生需要退出大教室)
 - [怎麼關掉討論室](#怎麼關掉討論室)
 - [在兩台電腦怎麼使用我的資料?](#在兩台電腦怎麼使用我的資料)
 
