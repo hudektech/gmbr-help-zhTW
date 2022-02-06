@@ -26,7 +26,7 @@
 
 ### 工具
 
-- [隱藏顯示 Meet 下面的面板](#隱藏顯示-meet-下面的面板)
+- [隱藏顯示 Meet 下面的工具面板](#隱藏顯示-meet-下面的工具面板)
 - [重新視窗格式](#重新視窗格式)
 - [縮小放大控制面板](#縮小放大控制面板)
 - [簡報](#簡報)
@@ -70,7 +70,7 @@
 
   ![create rooms](data/setup2.1.jpg)
 
-- **Google Classroom 老師**: 如果你是 Google Classroom 老師的話，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
+- **只有 Google Classroom 老師而已**: 如果你是 Google Classroom 老師的話，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
 
   ![gc copy1](./data/GC-1.jpg)
 
@@ -92,7 +92,7 @@
 
   ![create rooms](data/setup3.jpg)
 
-- 顏色: 挑選 meet 的下面工具欄有什麼顏色
+- 顏色: 挑選 meet 的下面工具面板有什麼顏色
 
 - 讓外人自動進入：建議不要勾選，不然持著你教書連結的外人能夠自動闖入。不過如果你不擔心這個情況，就可以勾選。由你來決定，基本上建議不優勾選。
 
@@ -104,7 +104,7 @@
 
 ### 第四步: 調整 Meet 變更版面配置
 
--為了讓擴充功能看到你大教室所有學生，有一個 meet 設定，設定一次就可以，不用再管理它。
+- 為了讓擴充功能看到你大教室所有學生，有一個 meet 設定，設定一次就可以，不用再管理它。
 
 - 在截圖看到三個點按鈕，按一下，會有彈簧菜單出現，按「變更版面配置」。
 
@@ -147,7 +147,7 @@
 - 你可以按「大教室」打開只有大教室，或按「全部」打開大教室與討論室都有。
 - 如果先按「大教室」單打開大教室，你能後來按「討論室」打開討論室。如果大教室已經開了，你按了「全部」按鈕請放心，大教室不會被打開了第二次。
 
-- Google Classroom 老師而已:
+- 只有 Google Classroom 老師而已:
 
   - 如果你先在擴充功能開啟「大教室」，再過去你的 Google Classroom 主頁開那邊的 meet 連結，你就已經是跟擴充功能同步（synced up).
   - 不過大部分 Google Classroom 老師會先在 Google Classroom 主頁開 meet 連結. 這樣的話，你開擴充功能的大教室就能把擴充功能與 Google Classroom meet 連結同步（synced up).
@@ -161,7 +161,7 @@
 
 ### 步驟 3A： 分組學生-臨時
 
-- 為了臨時分組，請按下面的按鈕:
+- 臨時分組，請按下面的按鈕:
 
   ![ad hoc](./data/adhoc0.jpg)
 
@@ -188,13 +188,13 @@
 
 - In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
 
-- If you have not already done so, please remember to open the breakout rooms by clicking on the "Breakouts" button below. You may open the breakout rooms early, prior to assignment of students, if you want to.
+- 如果還沒開啟討論室的話，請記得開它們給學生使用
 
   ![ad hoc6](./data/adhoc6.jpg)
 
 ### 步驟 3B： 分組學生-預先
 
-- 預先的指示在擴充功能寫上的，這個過程跟臨時分組是差不多，
+- 預先的說明在擴充功能寫上的，這個過程跟臨時分組是差不多，
 - 差別是老師會事先自己在另外電子檔（ms word, 任何 text app) 寫下來討論分組，然後把這個檔案文字複製，轉移到大教室的 meet 通話中的訊息下面框貼上去，傳送訊息給所有的學生。
 
   ![3b](./data/use3b.jpg)
@@ -233,7 +233,7 @@
 
   ![mute](./data/mute.jpg)
 
-### 隱藏顯示 Meet 下面的面板
+### 隱藏顯示 Meet 下面的工具面板
 
 - 為了給自己多一點的 meet 空間，能使用這個按鈕。
 
