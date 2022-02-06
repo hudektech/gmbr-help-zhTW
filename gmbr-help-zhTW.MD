@@ -67,13 +67,13 @@
 
   ![Enter rooms](./data/setup2.0.jpg)
 
-- :smile: **最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存.** 這樣擴充功能會自動給你連結，這麼簡單.
+- :smile: **_最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存._** 這樣擴充功能會自動給你連結，這麼簡單.
 
   ![create rooms](data/setup2.1.jpg)
 
-- **Google Classroom 老師**: 如果你是 google class room 老師，你的擴充功能「大教室」討論室是你的 google classroom “Meet Link".
+- **_Google Classroom 老師_**: 如果你是 Google Classroom 老師，你的擴充功能「大教室」討論室是你的 Google Classroom “Meet Link".
 
-  **只有 google classroom 老師需要做這個:** 請從你的 google classroom 主頁複製 meet link， 然後在擴充功能的 Main room 貼上。
+  **_只有 google classroom 老師需要做這個:_** 請從你的 Google Classroom 主頁複製 meet link， 然後在擴充功能的 Main room 貼上。
 
   ![gc copy1](./data/GC-1.jpg)
 
