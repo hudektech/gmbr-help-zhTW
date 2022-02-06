@@ -66,11 +66,11 @@
 
   ![Enter rooms](./data/setup2.0.jpg)
 
-- :smile: **_最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存._** 這樣擴充功能會自動給你連結，這麼簡單.
+- :smile: **最簡單的方法是給連結框框留著空白，不輸入任何的東西，然後儲存。** 這樣擴充功能會自動給你連結，這麼簡單.
 
   ![create rooms](data/setup2.1.jpg)
 
-- **_Google Classroom 老師_**: 如果你是 Google Classroom 老師，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
+- **Google Classroom 老師**: 如果你是 Google Classroom 老師的話，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
 
   ![gc copy1](./data/GC-1.jpg)
 
