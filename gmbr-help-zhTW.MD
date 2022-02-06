@@ -156,7 +156,7 @@
 - 只有 Google Classroom 老師而已:
 
   - 如果你先在擴充功能開啟「大教室」，再過去你的 Google Classroom 主頁開那邊的 meet 連結，你就已經是跟擴充功能同步（synced up).
-  - 不過大部分 Google Classroom 老師會先在 Google Classroom 主頁開 meet 連結. 這樣的話，你開擴充功能的大教室就能把擴充功能與 Google Classroom meet 連結同步（synced up).
+  - 不過大部分 Google Classroom 老師會先在 Google Classroom 主頁開 meet 連結. 這樣的話，你再來開擴充功能的大教室就能把擴充功能與 Google Classroom meet 連結同步（synced up).
   - 小提醒 Google Classroom 老師，請把你的 Google Classroom meet 連結複，在「教室設定」大教室連結框貼上去 [創建討論室](#第二步創建討論室)
 
 - 上課時，你能隨時多加討論室開啟，開啟後
