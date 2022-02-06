@@ -70,7 +70,7 @@
 
   ![create rooms](data/setup2.1.jpg)
 
-- :point-right: **只有 Google Classroom 老師而已**: 如果你是 Google Classroom 老師的話，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
+- :point_right: **只有 Google Classroom 老師而已**: 如果你是 Google Classroom 老師的話，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
 
   ![gc copy1](./data/GC-1.jpg)
 
