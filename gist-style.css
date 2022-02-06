@@ -45,7 +45,7 @@ h4 {
   .p-5 {
     padding: 20px 0 !important;
   }
-  * {
+  * :not(.my-footer) {
     font-size: 1rem;
   }
 }
@@ -54,7 +54,7 @@ h4 {
   .gist {
     max-width: 390px !important;
   }
-  * {
+  * :not(.my-footer) {
     font-size: 1rem;
   }
 }
