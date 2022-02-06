@@ -37,7 +37,7 @@
   <!-- omit in toc -->
 
 - [學生需要安裝這個擴充功能?](#學生需要安裝這個擴充功能)
-- [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
+- [我的電腦需要多大的記憶體（RAM）?](#我的電腦需要多大的記憶體（RAM）)
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
@@ -281,11 +281,11 @@
 - 不需要，並且不建議他們安裝，因為對學生來說沒有用，有可能讓他們困惑，所有老師們請不要求學生安裝
 - 若學生不小心安裝這個擴充功能沒關係，不影響老師操作。
 
-### How much memory (RAM) do I need to run the extension?
+### 我的電腦需要多大的記憶體（RAM）?
 
-- Normal Mode: In the "normal" mode where you open up all the breakouts simultaneously in either tab or tile mode, most teachers report that they need about 16G RAM to open more than a few rooms, such as 10. In the normal mode, please do NOT check the checkbox in the Meet tab, Sart Class section.
+- 如果你的電腦記憶體是 16G，應該足夠大開 10 個討論室。大多數老師跟我說需要 16 Gig RAM （記憶體）, 才能順利開操作大約 10 個討論室。我有一個 MacBook 具有 16G, 開過 15 個討論室就可以，但電腦好像跑地點辛苦（電風扇開了）。我的 Imac 記憶體超過 24G, 16 個討論室是無費吹灰之力
 
-- Low Memory (RAM) Mode: Video Demo In the "low memory mode" mode even a tiny computer such as a chromebook should be able to run and manage a very large number of breakouts, such as 50. Theoretically it is unlimited because only one breakout room is displayed on your computer at a time. Even though all the rooms are "open", your computer will display them one by one using the slider control For additional help on this option please click on the red Help in the checkbox text.
+- 如果你的電腦記憶體非常的小（像 chromebook 4GB 一樣）可以考慮看看使用低記憶體（RAM）的方式。在「快樂上課」標籤，「開始上課」區域，給第一記憶體勾選打勾。這樣能夠開超過 20 個視窗，但因為那種小台電腦記憶體不夠大，所以只能同時開一個視窗。
 
 ### Why is the extension not working properly?
 
