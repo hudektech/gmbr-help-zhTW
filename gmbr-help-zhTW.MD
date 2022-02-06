@@ -152,23 +152,21 @@
 
   - 如果你先在擴充功能開啟「大教室」，再過去你的 Google Classroom 主頁開那邊的 meet 連結，你就已經是跟擴充功能同步（synced up).
   - 不過大部分 Google Classroom 老師會先在 Google Classroom 主頁開 meet 連結. 這樣的話，你開擴充功能的大教室就能把擴充功能與 Google Classroom meet 連結同步（synced up).
-  - 小提醒 Google Classroom 老師，請把你的 Google Classroom meet 連結複，在「教室設計」大教室連結框貼上去 [setup section step 2](#setup-2-create-breakout-rooms)
+  - 小提醒 Google Classroom 老師，請把你的 Google Classroom meet 連結複，在「教室設計」大教室連結框貼上去 [創建討論室](#第二步創建討論室)
 
 - 上課時，你能隨時多加討論室開啟，開啟後
-- :warning: 除非你的電腦記憶體非常的小（像 chromebook 4GB 一樣）請不要給低記憶體（RAM）的打勾。這是專門給小記憶體電腦用的，雖讓能夠開所有的視窗，但因為那種小電腦記憶體不夠，所以只能同時開一個視窗。
+- :warning: 除非你的電腦記憶體非常的小（像 chromebook 4GB 一樣）請不要給低記憶體（RAM）的勾選打勾。這是專門給小記憶體電腦用的，雖讓能夠開所有的視窗，但因為那種小台電腦記憶體不夠大，所以只能同時開一個視窗。
 - :star: 為了整理 meet 視窗，讓畫面比較整齊，請按「重新視窗格式」按鈕
 
   ![retile](./data/retile.jpg)
 
 ### 步驟 3A： 分組學生-臨時
 
-- To assign students on an Ad Hoc basis please click on the button below:
+- 為了臨時分組，請按下面的按鈕:
 
   ![ad hoc](./data/adhoc0.jpg)
 
-- Please make sure that you can see your students in the main room. In this example I only have 6 students.
-
-- Also please remember to set your google layout to Tiled and 49 students, as described in [Change Google Meet Layout](#setup-4-change-google-meet-layout). You only need to do this setup once and google meet will remember this setting. If everything is OK then you should see a list of your students and the "Randomly Assign" button will appear.
+- 請確認在你的大教室螢幕能夠看所有的學生，在圖塊的格式 [變更版面配置](#第四步-調整-meet-變更版面配置).
 
   ![ad hoc 1](./data/adhoc1.jpg)
 
@@ -197,32 +195,29 @@
 
 ### 步驟 3B： 分組學生-預先
 
-- The instructions for assigning participants in the pre-assigned mode (i.e., from a MS word list you prepared before class) are described in the Meet tab, Assign Participants - Pre Assign section. If you follow those instructions you should be able to see all of your participants, assign then to groups, and copy/paste the links to the students in the Main chat. That section also describes how to trouble shoot if your students do not appear in that section
+- 預先的指示在擴充功能寫上的，這個過程跟臨時分組是差不多，
+- 差別是老師會事先自己在另外電子檔（ms word, 任何 text app) 寫下來討論分組，然後把這個檔案文字複製，轉移到大教室的 meet 通話中的訊息下面框貼上去，傳送訊息給所有的學生。
 
   ![3b](./data/use3b.jpg)
 
 ### 第四步：入出分組與操作視聽設備
 
-- To move between rooms, please either click on the right or left arrows next to the slider or click on the blank space in the slider bar (the black portion). If you click on a blank space in the slider bar, the yellow dot will immediately move to that position.
+- 為了入出討論室，請在滑桿控制 （slider)， 給左右箭頭按一下，或給小黃點移動。
 
   ![slider](./data/slider.jpg)
 
-- When you move between rooms, the slider will automatically do the following muting:
+- 進入討論室，滑桿控制（slider) 會控制老師的喇叭，老師的麥克風，老師的相機如下：
 
-  - In the current room:
-    - Turn ON the speaker so the teacher can listen to the students in that room
-    - Turn OFF the teacher's microphone to avoid disturbing the breakout discussion. To speak to the students, the teacher may click on that microphone button to toggle it on/off.
-    - Turn OFF the teacher's camera to avoid disturbing the breakout discussion. To show the teacher's camera to the students, the teacher may click on that video button to toggle it on/off.
-  - In all other rooms:
-    - The speaker is turned off.
-    - The teacher's microphone is turned off.
-    - The teacher's camera is turned off.
+  - 在這個討論室:
+    - 開喇叭，這樣老師能夠聽學生的討論
+    - 關閉老師的麥克風所以不會打擾學生的討論。如果老師想講話，請在 slider 按麥克風。再按一次會關閉。
+    - 關閉老師的相機所以不會打擾學生的討論。如果老師想開相機，請在 slider 按麥克風。再按一次會關閉。
+  - 在所有其它教室:
+    - 喇叭關閉.
+    - 麥克風關閉
+    - 相機關閉
 
-- To avoid inconsistencies between the control panel and the individual meet windows, please use the audio visual buttons on the control panel rather than directly clicking the buttons in the individual meet windows. However, If the rooms and the control panel become out of sync, it is easy to get back in sync. Just click on the right arrow and then the left arrow to go right and left, then everything should be back in sync.
-
-- Occasionally if the slider yellow dot on the slider is moved back and forth too quickly then the rooms can temporarily become out of sync. Multiple rooms may have their speaker, microphone, and video on. To get back in sync again, it's simple. Just click on the slider right arrow and then click on the left arrow slider. This will move you right and then left, syncing all the other rooms back to off, off, off for speaker, microphone, and slider.
-
-- I typically move the slider by either clicking on the right and left arrows or by clicking on the slider "blank" spot which will make the slider immediately move to that spot. I have never experienced an out of sync problem using these two methods.
+- 為了不讓滑桿控制 （slider) 的按鈕與 meet 的按鈕（喇叭，麥克風，相機）有不一致，請盡量用控制面板的按鈕控制 meet 的按鈕。如果忘記，直接按 meet 的按鈕，沒關係。下次給 slider 移動，按鈕就會跟 meet 行程一致。
 
 ### 第五步：廣播系統
 
