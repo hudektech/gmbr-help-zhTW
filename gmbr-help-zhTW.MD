@@ -225,35 +225,32 @@
 
 ### 第五步：廣播系統
 
-- Click on the broadcast speaker/microphone/video controls to broadcast into all of the breakout rooms.
+- 廣播系統有三個按鈕：老師的喇叭，老師的麥克風，老師的相機。
 
   ![broadcast](./data/broadcast.jpg)
 
-- Once you click on the slider either left or right, the broadcast will automatically be turned off and the normal mode of listening to the breakout room with muted teacher video and muted teacher microphone.
+- 退出廣播系統有兩個方法。如果你在滑桿控制移動，按左右或給小黃點移動，廣播系統會自動關閉。或許能直接在廣播按鈕按一下，關閉
 
 ### 第六步：靜音和移除學生
 
-- To mute the participants in a selected room, click on the mute button for the corresponding selection.
-- To remove participants from a room, click on remove button for the corresponding selection.
-- To remove participants and close the room click on the Class Over buttons
+- 給教室靜音有很多種選擇：大教室，這個討論室，所有討論室，所有的教室
+- 給教室內的學生移除有多種選擇：這個討論室，所有討論室，大教室
 
   ![mute](./data/mute.jpg)
 
 ### 隱藏顯示 Meet 下面的面板
 
-- Sometimes the "real estate" space on your screen is too small, so you can toggle the google meet toolbar to hide or unhide, freeing up space
+- 為了給自己多一點的 meet 空間，能使用這個按鈕。
+
+- 按一次會把 meet 的最下面工具面板隱藏，再按一次會出現。
 
   ![hide](./data/hide.jpg)
 
-- Click once to hide it, click again to unhide. In this way you can toggle the hide / unhide.
-
 ### 重新視窗格式
 
-- This button will automatically re-tile all of your Google Meet Breakout Rooms windows - your main room and your breakout rooms.
+- 非常方便的按鈕會在螢幕上把所有的 meet 視窗重新整理好，看起來很整齊
 
   ![retile](./data/retile.jpg)
-
-- This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
 ### 縮小放大控制面板
 
