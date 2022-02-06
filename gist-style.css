@@ -48,9 +48,6 @@ h4 {
   * :not(.my-footer) {
     font-size: 1rem;
   }
-  .my-footer {
-    font-size: inherit;
-  }
 }
 
 @media (max-width: 425px) {
@@ -60,9 +57,6 @@ h4 {
   * :not(.my-footer) {
     font-size: 1rem;
   }
-  .my-footer {
-    font-size: inherit;
-  }
 }
 @media (max-width: 390px) {
   .gist {
@@ -70,9 +64,6 @@ h4 {
   }
   * :not(.my-footer) {
     font-size: 1rem;
-  }
-  .my-footer {
-    font-size: inherit;
   }
 }
 @media (max-width: 375px) {
@@ -82,9 +73,6 @@ h4 {
   * :not(.my-footer) {
     font-size: 1rem;
   }
-  .my-footer {
-    font-size: inherit;
-  }
 }
 @media (max-width: 360px) {
   .gist {
@@ -92,9 +80,6 @@ h4 {
   }
   * :not(.my-footer) {
     font-size: 1rem;
-  }
-  .my-footer {
-    font-size: inherit;
   }
 }
 @media (max-width: 350px) {
@@ -104,11 +89,11 @@ h4 {
   * :not(.my-footer) {
     font-size: 1rem;
   }
-  .my-footer {
-    font-size: inherit;
-  }
 }
 
+.my-footer {
+  font-size: inherit;
+}
 /* @media (min-width: 768px) {
   .gist {
     max-width: 675px !important;
