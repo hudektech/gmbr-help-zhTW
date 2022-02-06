@@ -41,7 +41,7 @@
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
-- [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
+- [Co-teachers 可以使用?](#co-teachers可以使用)
 - [學生需要退出大教室?](#學生需要退出大教室)
 - [怎麼關閉討論室](#怎麼關閉討論室)
 - [怎麼使用我的擴充功能資料在兩台電腦?](#怎麼使用我的擴充功能資料在兩台電腦)
@@ -313,9 +313,9 @@
 
 - It is likely because your display is not tiled and not set to 49. Please click on the triple dot button on the bottom of your google meet and then select "Change Layout", then click on the radio button for the "Tiled" format, then click on the slider in that popup to push it to 49. Now you can view 49 students in a tiled format on the screen which should be plenty large enough for assigning participants.
 
-### Does this extension work with co-teachers?
+### Co-teachers 可以使用?
 
-- Yes it does. Here is a video that explains how you can use this extension in a teaching environment
+- 可以啊。這裡是英文版的影片說明怎麼使用
   [co-teachers](https://youtu.be/6Z_b4aWHrvY)
 
 ### 學生需要退出大教室?
