@@ -42,9 +42,9 @@
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
 - [Does this extension work with co-teachers?](#does-this-extension-work-with-co-teachers)
-- [Do students need to leave the main room?](#do-students-need-to-leave-the-main-room)
-- [Do all the rooms have to be Meets?](#do-all-the-rooms-have-to-be-meets)
-- [How can I use this extension on multiple computers?](#how-can-i-use-this-extension-on-multiple-computers)
+- [學生需要離開大教室?](#學生需要離開大教室)
+- [怎麼關掉討論室](#怎麼關掉討論室)
+- [在兩台電腦怎麼使用我的資料?](#在兩台電腦怎麼使用我的資料)
 
 ### 第一步：輸入課程
 
@@ -318,28 +318,16 @@
 - Yes it does. Here is a video that explains how you can use this extension in a teaching environment
   [co-teachers](https://youtu.be/6Z_b4aWHrvY)
 
-### Do students need to leave the main room?
+### 學生需要退出大教室?
 
-- The short answer is no they do not need to leave the main room. When I teach using this extension most of my students stay in the main room as well as open their assigned breakout room. In that case they are simultaneously in two rooms, the main room and their assigned breakout room. The only time that is a problem is if a student forgets and leaves their microphone on in the main room, because then it would cause feedback to the other rooms.
+- 不需要。我教書時後讓學生留著在大教室。這樣學生同時在兩個教室，大教室與他們的討論室。如果你讓學生在大教室留下，請注意他們手遊學生在大教室自己靜音，不讓會有大教室的聲音打擾。
 
-- On occasion I would have to ask them to please mute their mic in the main room or I can actually mute it for them using the Room Participants Control section "Mute All Participants" button. Please also remember that if you as the teacher have your microphone on in the main room and speak, that will be heard in all the students main room which feeds back in to their breakout rooms (if they have 2 windows open, their main and their breakout room).
+- 行動設備像 iphone, ipad 這樣， 不讓學生同時開多餘的 meet, 所以這樣的情況下，學生必要退出大教室。
 
-- The good news is that if you use the slider you should never accidentally have your microphone on in multiple rooms because the slider automatically mutes all the other rooms and only turns on the microphone in the current slider positioned room. The only time your microphone would be on in multiple rooms is if you either manually turn on the microphone in the room itself (not going through the control panel) or if the slider gets out of sync which may happen if you grab the yellow dot and move it directly. I recommend using the arrows or clicking in a blank position the slider bar. If your slider does get out of sync it is very easy to get back in sync - just click on the right arrow and then the left arrow to reset everything.
+### 怎麼關掉討論室?
 
-- I usually will make a broadcast announcement 5 minutes prior to closing of the breakouts, and when time is up I will also make a broadcast announcement asking them to leave their breakouts and "go back" to the main room. The "go back" is in quotes here because most are already in the main room as well, they never left it. However, some students do leave the main room and then re-enter the main room when they leave the breakouts. I never noticed any difference in the teaching experience, so I let the students do it either way: 1) exit the main room and go to the breakouts or 2) still stay in the main room but also go to the breakout. You may have a different experience so feel free to manage it whichever way you feel best.
+- 一個方法是用控制面板，在「靜音移除學生」區域內，按討論室完畢的按鈕。或許總是能直接把討論室關掉。關掉前，請記得用廣播系統通知學生要回去大教室。
 
-### How can I close the breakouts?
+### 在兩台電腦怎麼使用我的資料?
 
-- There are several ways to close the breakouts when time is up, however, you should first make sure that all the students have left the room. I believe for the teachers google suite there is a 40 second time requirement where the room must be completely vacant for 40 seconds before you can safely close it and no students may re-enter the room. If you need to control the room and not allow students to meet on their own in these breakouts, then you will need to wait at least 40 seconds before you close it.
-
-- Please note that I am not 100% sure of this 40 second window described above. This is just what I heard and read on Google Meet forums. I advise everyone to test this out for themselves if this is important to you.
-
-- You may close the breakout rooms directly by closing the window like any other window or you can click on the "Close Room" button in the Room Participants Control section. If students are lingering and not leaving after you asked them to, you may remove them using the "Remove All Participants" button. After they are removed (and you wait more than 40 seconds if you need to ensure they cannot re-enter) then you may close the room
-
-### How can I simulate students to practice using the extension?
-
-- If you have a Google suite account then you can create simulated students by using Chrome incognito and enter any name you choose. If you do not have a Google suite account then you will need to use (extra) Google accounts to simulate students
-
-### How can I use this extension on multiple computers?
-
-- Use the export/import option in the "Courses" tab to download your data from your first computer. Go to your second computer and import this file. Now the two computers are in sync
+- 在「課程設定」標籤內，按最右邊黑色按鈕導出入資料。從第一台電腦導出，在第二台電腦導入，請注意導入會把那台電腦所資料重新寫 (overwrite)
