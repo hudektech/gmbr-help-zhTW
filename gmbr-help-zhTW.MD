@@ -106,7 +106,7 @@
 
 - 為了讓擴充功能看到你大教室所有學生，有一個 meet 設定，設定一次就可以，不用再管理它。
 
-- 在截圖看到三個點按鈕，按一下，會有彈簧菜單出現，按「變更版面配置」。
+- 在截圖看到三個點按鈕，按一下，會有彈出菜單出現，按「變更版面配置」。
 
   ![gm setting1](./data/setup4.1.jpg)
 
@@ -169,24 +169,23 @@
 
   ![ad hoc 1](./data/adhoc1.jpg)
 
-- Now you may click on the Randomly Assign button to shuffle the students among the groups. You may click the Random button as many times as you wish until you see a reasonable grouping. Also, you may drag and drop students between groups.
+- 按「隨即分組」按鈕幾次才能組成你喜歡的分組。可以用 drag and drop 方式來自己調整小組，從一個小組到別的。
 
   ![ad hoc 2](./data/adhoc2.jpg)
 
-- Next please click on the button below which will create a popup window.
+- 再來按下面的按鈕，彈出視窗會出現
 
   ![ad hoc 3](./data/adhoc3.jpg)
 
-- In this popup window below, click on the first button to copy the Breakout Room Links and then please go to the Main room chat window and paste them in the chat box.
-- Click on the second button to copy the Breakout Rooms Assigned Students list and paste them in the chat box.
+- 在這裡按第一個按鈕，轉移到大教室的訊息窗戶貼上去，這樣會把份子討論室的連結給學生。在這裡的第二個按鈕，轉移到大教室的訊息窗戶貼上去，這樣會把小組命大給學生看，讓他們知道他們被分配到什麼小組，他們的組員是誰。
 
   ![ad hoc4](./data/adhoc4.jpg)
 
-- Paste the two lists (Breakout Rooms Links, and Breakout Rooms Assigned Students) into the chat window below. Google Meet has a 500 character limit on each paste so if the list is long then you may need to divide it up and paste in a couple of chunks.
+- 下面的截圖是大教室的訊息視窗。
 
   ![ad hoc5](./data/adhoc5.jpg)
 
-- In this example, my rooms are 1, 2, and 3 so that is why the listing shows 1, 2, 3. If I had room names such as "Apple, Orange, and Banana" then the rooms listings would reflect these names, "Apple: ..., Orange: ..., Banana: ..."
+- 在這個例子有六個小組，討論室名字是蘋果，柳橙，香蕉，芭樂，草莓，木瓜。
 
 - 如果還沒開啟討論室的話，請記得開它們給學生使用
 
@@ -195,7 +194,7 @@
 ### 步驟 3B： 分組學生-預先
 
 - 預先的說明在擴充功能寫上的，這個過程跟臨時分組是差不多，
-- 差別是老師會事先自己在另外電子檔（ms word, 任何 text app) 寫下來討論分組，然後把這個檔案文字複製，轉移到大教室的 meet 通話中的訊息下面框貼上去，傳送訊息給所有的學生。
+- 差別是老師會事先自己在另外電子檔（ms word, 任何 text app) 寫下來討論分組，然後把這個檔案文字複製，轉移到大教室的 meet 的訊息視窗下面框貼上去，傳送訊息給所有的學生。
 
   ![3b](./data/use3b.jpg)
 
@@ -267,7 +266,7 @@
 
   ![courses-download](./data/courses-export.jpg)
 
-- 導出入文字檔非常的小，彈簧的視窗會問你要給它什麼名稱？下載是在你電腦的下載夾
+- 導出入文字檔非常的小，彈出的視窗會問你要給它什麼名稱？下載是在你電腦的下載夾
 
 - 如果是導入，輸入你的檔案名稱。
 
@@ -282,7 +281,7 @@
 
 ### 我的電腦需要多大的記憶體 RAM?
 
-- 如果你的電腦記憶體是 16G，應該足夠大開 10 個討論室。大多數老師跟我說需要 16 Gig RAM （記憶體）, 才能順利開操作大約 10 個討論室。我有一台 MacBook 具有 16G, 開過 15 個討論室就可以，但電腦好像跑地點辛苦（電風扇開了）。我的 Imac 記憶體超過 24G, 開啟 16 個討論室是無費吹灰之力 :stuck_out_tongue_winking_eye:
+- 如果你的電腦記憶體是 16G，應該足夠大開 10 個討論室。大多數老師跟我說需要 16 Gig RAM （記憶體）, 才能順利開操作大約 10 個討論室。我有一台舊的 MacBook 具有 16G, 開過 15 個討論室就可以，但好像有一點勉強。我的 Imac 記憶體是 24G, 開啟 16 個討論室是無費吹灰之力的 :stuck_out_tongue_winking_eye:
 
 - 如果你的電腦記憶體非常的小（像 chromebook 4GB 一樣）可以考慮看看使用低記憶體（RAM）的方式。在「快樂上課」標籤，「開始上課」區域，給第一記憶體勾選打勾。這樣能夠開超過 20 個視窗，但因為那種小台電腦記憶體不夠大，所以只能同時開一個視窗。
 
