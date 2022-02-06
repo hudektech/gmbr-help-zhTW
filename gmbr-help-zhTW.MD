@@ -71,9 +71,7 @@
 
   ![create rooms](data/setup2.1.jpg)
 
-- **_Google Classroom 老師_**: 如果你是 Google Classroom 老師，你的擴充功能「大教室」討論室是你的 Google Classroom “Meet Link".
-
-  **_只有 google classroom 老師需要做這個:_** 請從你的 Google Classroom 主頁複製 meet link， 然後在擴充功能的 Main room 貼上。
+- **_Google Classroom 老師_**: 如果你是 Google Classroom 老師，在「大教室」連結框，請輸入你的 Google Classroom “Meet Link".
 
   ![gc copy1](./data/GC-1.jpg)
 
@@ -149,13 +147,16 @@
 
 - 你可以按「大教室」打開只有大教室，或按「全部」打開大教室與討論室都有。
 - 如果先按「大教室」單打開大教室，你能後來按「討論室」打開討論室。如果大教室已經開了，你按了「全部」按鈕請放心，大教室不會被打開了第二次。
-- Google Classroom Teachers:
-  - If you FIRST open the main room in the extension THEN open the google classroom meet link in your google classroom page, the main room is automatically linked.
-  - However, most Google Classroom Teachers first open their google classroom link from their google classroom page by clicking on the "meet link" in the Stream or the icon in their Classwork. That's fine no worries. In this case, when you want to use the breakout extension, please click on the "Main Room" button in this extension to sync the extension with your google classorom page. When you click on the "Main Room" button you should see the tab for the main room to display "Main Room" which indicates everything is synced up correctly.
-  - Also as a friendly reminder for GC teachers, in the [setup section step 2](#setup-2-create-breakout-rooms) you will have needed to copy your google classroom link into the Rooms tab as the Main room.
-- During class you can change the number of breakout rooms, so please don't worry that you need to decide this ahead of time. If you increase the number of breakout rooms then when you click to open "Breakouts" the extension will only open the breakouts that are not yet open. For example, if you first start out the class with 3 breakouts and later decide to add 2 more, then you may change the number of breakouts to 5 and click Open Breakouts. Just those 2 unopened rooms will be opened.
-- :warning: Please do not click on the checkbox "Low Memory Option" unless your computer has a very small amount of memory. If you check this box, then only one breakout room window will be displayed at a time. If you accidentally check this box, no worries. Just uncheck it and then choose your button option: Main, Breakouts, or Both
-- :star: To reorganize your tiled windows, after they are opened please click on the red Re-tile button on the top right hand side of the control panel
+
+- Google Classroom 老師而已:
+
+  - 如果你先在擴充功能開啟「大教室」，再過去你的 Google Classroom 主頁開那邊的 meet 連結，你就已經是跟擴充功能同步（synced up).
+  - 不過大部分 Google Classroom 老師會先在 Google Classroom 主頁開 meet 連結. 這樣的話，你開擴充功能的大教室就能把擴充功能與 Google Classroom meet 連結同步（synced up).
+  - 小提醒 Google Classroom 老師，請把你的 Google Classroom meet 連結複，在「教室設計」大教室連結框貼上去 [setup section step 2](#setup-2-create-breakout-rooms)
+
+- 上課時，你能隨時多加討論室開啟，開啟後
+- :warning: 除非你的電腦記憶體非常的小（像 chromebook 4GB 一樣）請不要給低記憶體（RAM）的打勾。這是專門給小記憶體電腦用的，雖讓能夠開所有的視窗，但因為那種小電腦記憶體不夠，所以只能同時開一個視窗。
+- :star: 為了整理 meet 視窗，讓畫面比較整齊，請按「重新視窗格式」按鈕
 
   ![retile](./data/retile.jpg)
 
