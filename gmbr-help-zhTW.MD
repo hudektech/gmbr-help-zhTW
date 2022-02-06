@@ -37,10 +37,9 @@
   <!-- omit in toc -->
 
 - [學生需要安裝這個擴充功能?](#學生需要安裝這個擴充功能)
-- [我的電腦需要多大的記憶體（RAM）?](#我的電腦需要多大的記憶體RAM)
-- [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
-- [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
-- [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
+- [我的電腦需要多大的記憶體（RAM）?](#我的電腦需要多大的記憶體-ram)
+- [為什麼在分組區域無法看任何的學生?](#為什麼在分組區域無法看任何的學生)
+- [為什麼無法看所有的學生?](#為什麼無法看所有的學生)
 - [Co-teachers 可以使用?](#co-teachers-可以使用)
 - [學生需要退出大教室?](#學生需要退出大教室)
 - [怎麼關閉討論室](#怎麼關閉討論室)
@@ -287,24 +286,15 @@
 
 - 如果你的電腦記憶體非常的小（像 chromebook 4GB 一樣）可以考慮看看使用低記憶體（RAM）的方式。在「快樂上課」標籤，「開始上課」區域，給第一記憶體勾選打勾。這樣能夠開超過 20 個視窗，但因為那種小台電腦記憶體不夠大，所以只能同時開一個視窗。
 
-### Why is the extension not working properly?
+### 為什麼在分組區域無法看任何的學生?
 
-- This may happen for a number of reasons. One reason is that a new version of my extension was not updated completely on your system. One way to force a restart of your extension is to go to your chrome browser, window menu, select extensions. Find this extension and then turn the slider off, wait 3 seconds, then turn the slider back on again. This does not delete your data. It is similar to restarting your computer but for your extension
-- Other things you may try are Refresh the control panel (command/control r) and Refresh the window (command/control r)
-- Another reason the extension may not work properly is that Google from time to time updates their google meet application which can cause conflicts with my extension. If that happens, or if you suspect something like that has happened to you and your fellow teachers, then please notify me so that I may fix it as soon as possible. My email is robert@hudektech.com.
-- If you feel like you need to uninstall the extension please first export your data so you don't have to re-enter it. First go to the Courses tab, far right hand side black button Export your data. After you uninstall the extension and re-install it, you may import your data. Import your data through the Courses tab and enter your file name.
+- 有可能因為 meet 的變更版面配置還沒調整到圖塊，49 個學生的格式，[調整 Meet 變更版面配置](#第四步-調整-meet-變更版面配置)
 
-### Why can't I see any students in the Assign Participants section?
+- 如果你是 Google Classroom 老師的話，請確認在「教室設計」標籤的大教室連結是你的 Google Classroom 主頁上的 meet link.
 
-- The main reason you cannot see any students in the Assign Participants section is likely because your display of Google Meet does not have any students in it. The students icons need to be visible in the meet window in order for the extension to see them to put them in the assign participants section.
+### 為什麼無法看所有的學生?
 
-- If you are a Google Classroom teacher please make sure your Google Classroom meet is in sync with the Main room, by ensuring that the link is your Main room in the Rooms tab and you clicked on the open Main Room button to sync it up.
-
-- Please remember that if a link was created by another user, or by yourself but under a different google account name, then you may not be able to open that link. Google by default uses the Primary Account to open the meet links. The primary account is the FIRST account that you use to login to your computer with. You can view this primary account in the Rooms tab and also in the Meet tab. If it is not your correct account then unfortunately you will need to log out of all your google accounts and then re-log in keeping in mind your first login is your primary account (school account).
-
-### Why can't I see all of my students?
-
-- It is likely because your display is not tiled and not set to 49. Please click on the triple dot button on the bottom of your google meet and then select "Change Layout", then click on the radio button for the "Tiled" format, then click on the slider in that popup to push it to 49. Now you can view 49 students in a tiled format on the screen which should be plenty large enough for assigning participants.
+- 有可能因為 meet 的變更版面配置還沒調整到圖塊，49 個學生的格式，[調整 Meet 變更版面配置](#第四步-調整-meet-變更版面配置)
 
 ### Co-teachers 可以使用?
 
