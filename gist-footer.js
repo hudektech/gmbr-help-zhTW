@@ -28,4 +28,4 @@ let myGist = tags[1].innerText;
 let myGistHref = tags[1].href;
 
 // Update footer
-footer.innerHTML = `<a href="${myGistHref}">${myGist}</a> made with ❤ by <a href="${myAccountHref}">${myAccount}</a>`;
+footer.innerHTML = `<a href="${myGistHref}" class="my-footer">${myGist}</a> made with ❤ by <a href="${myAccountHref}" class="my-footer">${myAccount}</a>`;
