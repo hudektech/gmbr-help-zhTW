@@ -28,7 +28,7 @@
 
 - [隱藏顯示 Meet 下面的面板](#隱藏顯示-meet-下面的面板)
 - [重新視窗格式](#重新視窗格式)
-- [縮小放大控制板](#縮小放大控制板)
+- [縮小放大控制面板](#縮小放大控制面板)
 - [簡報](#簡報)
 - [導出入數據](#導出入數據)
 
@@ -255,31 +255,31 @@
 
 - This is super convenient because now you can move windows around, resize them, place one on top of the other and then with a single click on the "Re-Tile" button all the windows will snap back into place, in their original order. Also, teachers may first open the main room and then open the breakouts. With the "Re-tile" button all the windows are tiled together so you can at a glance see all of them. In other cases, during class the teacher may decide to add or close breakouts. With a single click on the "Re-tile" button all the rooms are tiled together.
 
-### 縮小放大控制板
+### 縮小放大控制面板
 
-- The control panel is the cockpit where the teacher has a large number of features and functions to manage the session. However, the control panel takes up valuable real estate on the screen and can often get in the way. Click on the Minimize/Maximize button to toggle between the full size and minimized size.
+- 按一次會縮小，再按一次會放大
 
   ![minmax](./data/minmax.jpg)
 
-- Once the rooms are all open then the teacher may minimize the control panel and just use the slider to move between rooms. Please note that ALL of the features of the full-size control panel are still available in the minimized state. All the teacher has to do is scroll down to see the rest of the functions, such as broadcast as one example.
-
 ### 簡報
 
-- Click on the "Reports" button in the "Meet" tab to find a list of basic reports. They are copied to the clip board and are downloaded to your computer if the checkbox is checked.
+- 擴充功能有一些簡單的報告，能下載 csv 格式
 
   ![report](./data/reports.jpg)
 
 ### 導出入數據
 
-- There are export/import of breakout room within the "Rooms" tab.
+- 在「教室設定」與「課程設定」標籤內都有導出入黑色按鈕。
 
-  ![room-download](./data/rooms-export.jpg)
-
-- **Most common usage:** To copy the entire project, all of the courses and all of the breakout rooms, choose the export/import option within the "Courses" tab. Teachers export the extension file data in order to back it up in the event needing to uninstall / re-install the extension or to copy the breakout room extension data to another one of their computers.
+- **最常用的是「課程設定」標籤的**
 
   ![courses-download](./data/courses-export.jpg)
 
-- The export file is a very small text file which contains the breakout rooms links, courses, and settings. It will be downloaded into your pc's download folder.
+- 導出入文字檔非常的小，彈簧的視窗會問你要給它什麼名稱？下載是在你電腦的下載夾
+
+- 如果是導入，輸入你的檔案名稱。
+
+- **小心** 導入會重新寫在擴充功能所有的資料。
 
   ![export-popup](./data/export-popup.jpg)
 
@@ -320,7 +320,7 @@
 
 ### 學生需要退出大教室?
 
-- 不需要。我教書時後讓學生在大教室留著。這樣學生在兩個教室同時存在，大教室與他們的討論室。如果你讓學生在大教室留下來，請注意在大教室所有學生靜音自己，免得大教室的聲音打擾。
+- 不需要。我教書時後讓學生在大教室留下來。這樣學生在兩個教室同時存在，大教室與他們的討論室。如果你讓學生在大教室留下來，請注意在大教室所有學生靜音自己，免得大教室的聲音打擾。
 
 - 行動設備像 iphone, ipad 這樣， 不讓學生同時開多餘的 meet, 所以在這樣的情況下，學生必要退出大教室。
 
