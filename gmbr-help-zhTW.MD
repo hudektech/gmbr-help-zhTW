@@ -14,7 +14,7 @@
 - 第四步: [調整 Meet 變更版面配置](#第四步-調整-meet-變更版面配置)
 - 第五步: [確認 Google 帳號](#第五步-確認-google-帳號)
 
-### 上課
+### 教書
 
 - 第一步: [選課與指定幾個分組](#第一步選課與指定幾個分組)
 - 第二步: [開課](#第二步開課)
@@ -36,7 +36,7 @@
 
   <!-- omit in toc -->
 
-- [Do my students need to install this extension?](#do-my-students-need-to-install-this-extension)
+- [學生需要安裝這個擴充功能?](#學生需要安裝這個擴充功能)
 - [How much memory (RAM) do I need to run the extension?](#how-much-memory-ram-do-i-need-to-run-the-extension)
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
@@ -283,10 +283,10 @@
 
   ![export-popup](./data/export-popup.jpg)
 
-### Do my students need to install this extension?
+### 學生需要安裝這個擴充功能?
 
-- No. Only the teacher needs to install the extension.
-- Please do not ask your students to install the extension because it is not necessary for them and it may confuse them having an extra unneeded extension on their computers.
+- 不需要，並且我不建議他們安裝，因為對學生來說沒有用，有可能讓他們困惑，所有請老師們不要求學生安裝
+- 若學生不小心安裝這個擴充功能沒關係，不影響你操作。
 
 ### How much memory (RAM) do I need to run the extension?
 
