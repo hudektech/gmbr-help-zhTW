@@ -37,7 +37,7 @@
   <!-- omit in toc -->
 
 - [學生需要安裝這個擴充功能?](#學生需要安裝這個擴充功能)
-- [我的電腦需要多大的記憶體（RAM）?](#我的電腦需要多大的記憶體（RAM）)
+- [我的電腦需要多大的記憶體（RAM）?](#我的電腦需要多大的記憶體RAM)
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
@@ -281,7 +281,7 @@
 - 不需要，並且不建議他們安裝，因為對學生來說沒有用，有可能讓他們困惑，所有老師們請不要求學生安裝
 - 若學生不小心安裝這個擴充功能沒關係，不影響老師操作。
 
-### 我的電腦需要多大的記憶體（RAM）?
+### 我的電腦需要多大的記憶體 RAM?
 
 - 如果你的電腦記憶體是 16G，應該足夠大開 10 個討論室。大多數老師跟我說需要 16 Gig RAM （記憶體）, 才能順利開操作大約 10 個討論室。我有一個 MacBook 具有 16G, 開過 15 個討論室就可以，但電腦好像跑地點辛苦（電風扇開了）。我的 Imac 記憶體超過 24G, 16 個討論室是無費吹灰之力
 
