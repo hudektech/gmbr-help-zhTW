@@ -41,7 +41,7 @@
 - [Why is the extension not working properly?](#why-is-the-extension-not-working-properly)
 - [Why can't I see any students in the Assign Participants section?](#why-cant-i-see-any-students-in-the-assign-participants-section)
 - [Why can't I see all of my students?](#why-cant-i-see-all-of-my-students)
-- [Co-teachers 可以使用?](#co-teachers可以使用)
+- [Co-teachers 可以使用?](#co-teachers-可以使用)
 - [學生需要退出大教室?](#學生需要退出大教室)
 - [怎麼關閉討論室](#怎麼關閉討論室)
 - [怎麼使用我的擴充功能資料在兩台電腦?](#怎麼使用我的擴充功能資料在兩台電腦)
