@@ -4,7 +4,9 @@
 
 <!-- omit in toc -->
 
-## [詳細操作說明影片](https://youtu.be/5oGmIL3pmP4)
+## [Demo Video](https://youtu.be/HY5eZw-gsKU)
+
+<!-- ## [詳細操作說明影片](https://youtu.be/5oGmIL3pmP4) -->
 
 ### 設定
 
